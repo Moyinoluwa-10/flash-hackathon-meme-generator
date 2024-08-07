@@ -1,0 +1,10 @@
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+GREY = (220, 220, 220)
+
+SLEEP_TIME = .08
+
+WINDOW_WIDTH, WINDOW_HEIGHT = 800, 600
+
+FONT = 'DharmaGothicE_Bold_R.otf'
+FONT_SIZE = 32
