@@ -1,7 +1,2 @@
 # Flash Hackathon
-This is a meme generator that was built during a hackathon. This was built with SHawn and Lidia Pena-Lauria
-
-
-
-
-
+This is a meme generator that was built during the TechWise Flash Hackathon. This was built with Shawn and Lidia Pena-Lauria
